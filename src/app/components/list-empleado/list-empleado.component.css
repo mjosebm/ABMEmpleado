@@ -1,0 +1,17 @@
+table {
+ width: 100%;
+}
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.info-button {
+  color: #0dcaf0;
+  cursor: pointer;
+}
+
+.danger-button {
+  color: #dc3545;
+  cursor: pointer;
+}
